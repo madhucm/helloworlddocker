@@ -24,5 +24,5 @@ Execute below steps to create docker image and expose as a service.
   docker push madhucm/helloimage:v1
   ```
   - Access your service via browser or curl
-  http://<ip-of-vm>:7000
+  http://[ip-of-vm]:7000
 
